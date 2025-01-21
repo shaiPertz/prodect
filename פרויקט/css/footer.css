@@ -1,0 +1,23 @@
+body{
+    background: white;
+    margin: 0;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    padding: 24px;
+    position: relative;
+}
+.icon{
+    width: 10%;
+    display: flex;
+    justify-content: end;
+    justify-items: end;
+    position: absolute;
+    left: 10px;
+}
+.watswap{
+    margin-right:20px ;
+}
+
